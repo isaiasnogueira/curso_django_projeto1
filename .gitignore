@@ -83,6 +83,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+comandos_django.txt
+venv
 
 # mkdocs documentation
 /site
